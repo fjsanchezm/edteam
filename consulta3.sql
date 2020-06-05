@@ -1,8 +1,8 @@
---3.Consulta la facturación de un rango de fechas.
+--3.Consulta la facturaciÃ³n de un rango de fechas.
 declare @FecDesde date
 declare @FecHasta date
-set @FecDesde = '20190101'  -- Indique Fecha Inicial
-set @FecHasta = '20190131'  -- Indique Fecha Final
+set @FecDesde = '20190701'  -- Indique Fecha Inicial
+set @FecHasta = '20190731'  -- Indique Fecha Final
 SELECT         SUM(Venta.TotalPagar) AS TotalFacturado
 FROM            Venta 
 where fecha between @FecDesde and @FecHasta
