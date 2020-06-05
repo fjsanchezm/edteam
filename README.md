@@ -22,12 +22,12 @@ La estructura del proyecto está basada en Microsoft SQL Server 2014
 
 
 ## Instalación
-1.- Ejecutar script `creacionBD.sql`. Este script crea la base de datos edteam.  
-2.- Ejecutar script `estructura.sql`. Crea el resto de tablas, indices, etc.  
-3.- Ejecutar script `datos.sql`. LLena las tablas.  
+1.- Ejecutar script [creacionBD.sql](https://github.com/fjsanchezm/edteam/blob/master/creacionBD.sql). Este script crea la base de datos edteam.  
+2.- Ejecutar script [estructura.sql](https://github.com/fjsanchezm/edteam/blob/master/estructura.sql). Crea el resto de tablas, indices, etc.  
+3.- Ejecutar script [datos.sql](https://github.com/fjsanchezm/edteam/blob/master/datos.sql). LLena las tablas.  
 
 ## Consultas Requeridas
 1.- Ejecutar script [consulta1.sql](https://github.com/fjsanchezm/edteam/blob/master/consulta1.sql). Esta consulta requiere se indique un codigo de cliente  
-2.- Ejecutar script `Consulta2.sql`. Esta consulta requiere se indique un codigo de producto  
-3.- Ejecutar script `Consulta3.sql`. Esta consulta requiere se indique un rango de fechas  
-4.- Ejecutar script `Consulta4.sql`.  
+2.- Ejecutar script [consulta2.sql](https://github.com/fjsanchezm/edteam/blob/master/consulta2.sql). Esta consulta requiere se indique un codigo de producto  
+3.- Ejecutar script [consulta3.sql](https://github.com/fjsanchezm/edteam/blob/master/consulta3.sql). Esta consulta requiere se indique un rango de fechas  
+4.- Ejecutar script [consulta4.sql](https://github.com/fjsanchezm/edteam/blob/master/consulta4.sql).  
